@@ -93,6 +93,5 @@ public class Main {
             charge = charge + 2;
         }
         System.out.println("Время зарядки составило " + minute + " минут");
-
     }
 }
